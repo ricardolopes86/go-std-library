@@ -16,6 +16,9 @@ const (
 
 func main(){
 	writeLog(WARN, "our message in the logs")
+	writeLog(INFO, "simple information")
+	writeLog(ERR, "printing an error to the logs")
+	writeLog(FATAL, "after this, the program should die!")
 }
 
 func writeLog(messageType messageType, message string) {

@@ -1,2 +1,6 @@
 2022/02/11 22:09:54 First log message!
 WARN: 2022/02/11 22:15:47 firstlog.go:35: our message in the logs
+WARN: 2022/02/11 22:17:57 firstlog.go:38: our message in the logs
+INFO: 2022/02/11 22:17:57 firstlog.go:35: simple information
+ERROR: 2022/02/11 22:17:57 firstlog.go:41: printing an error to the logs
+FATAL: 2022/02/11 22:17:57 firstlog.go:44: after this, the program should die!
