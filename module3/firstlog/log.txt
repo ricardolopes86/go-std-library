@@ -1,1 +1,2 @@
 2022/02/11 22:09:54 First log message!
+WARN: 2022/02/11 22:15:47 firstlog.go:35: our message in the logs
