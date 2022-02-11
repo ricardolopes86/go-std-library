@@ -1,0 +1,5 @@
+# go-std-library
+one new line
+
+This is an example of file
+to be read by a program in golang.
