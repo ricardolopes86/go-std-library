@@ -7,5 +7,5 @@ import (
 
 func main(){
 	// this is where stuff starts to happen
-	fmt.Println("Go current version is" + runtime.Version())
+	fmt.Printf("Go current version is %v Sweet!!\n", runtime.Version())
 }
